@@ -10,7 +10,7 @@ livePreviewConfiguration:
   setupCommand: "npm run dev -- --port 8080"
 siteStream:
   id: site-data
-  entityId: 8135054981016244560
+  entityId: 6067329744555617680
   fields:
     - name
     - slug
